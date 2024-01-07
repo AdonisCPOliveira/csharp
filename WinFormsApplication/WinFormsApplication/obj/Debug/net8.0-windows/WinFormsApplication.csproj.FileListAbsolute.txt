@@ -1,0 +1,16 @@
+C:\Git\csharp\WinFormsApplication\WinFormsApplication\bin\Debug\net8.0-windows\WinFormsApplication.exe
+C:\Git\csharp\WinFormsApplication\WinFormsApplication\bin\Debug\net8.0-windows\WinFormsApplication.deps.json
+C:\Git\csharp\WinFormsApplication\WinFormsApplication\bin\Debug\net8.0-windows\WinFormsApplication.runtimeconfig.json
+C:\Git\csharp\WinFormsApplication\WinFormsApplication\bin\Debug\net8.0-windows\WinFormsApplication.dll
+C:\Git\csharp\WinFormsApplication\WinFormsApplication\bin\Debug\net8.0-windows\WinFormsApplication.pdb
+C:\Git\csharp\WinFormsApplication\WinFormsApplication\obj\Debug\net8.0-windows\WinFormsApplication.Form1.resources
+C:\Git\csharp\WinFormsApplication\WinFormsApplication\obj\Debug\net8.0-windows\WinFormsApplication.csproj.GenerateResource.cache
+C:\Git\csharp\WinFormsApplication\WinFormsApplication\obj\Debug\net8.0-windows\WinFormsApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\csharp\WinFormsApplication\WinFormsApplication\obj\Debug\net8.0-windows\WinFormsApplication.AssemblyInfoInputs.cache
+C:\Git\csharp\WinFormsApplication\WinFormsApplication\obj\Debug\net8.0-windows\WinFormsApplication.AssemblyInfo.cs
+C:\Git\csharp\WinFormsApplication\WinFormsApplication\obj\Debug\net8.0-windows\WinFormsApplication.csproj.CoreCompileInputs.cache
+C:\Git\csharp\WinFormsApplication\WinFormsApplication\obj\Debug\net8.0-windows\WinFormsApplication.dll
+C:\Git\csharp\WinFormsApplication\WinFormsApplication\obj\Debug\net8.0-windows\refint\WinFormsApplication.dll
+C:\Git\csharp\WinFormsApplication\WinFormsApplication\obj\Debug\net8.0-windows\WinFormsApplication.pdb
+C:\Git\csharp\WinFormsApplication\WinFormsApplication\obj\Debug\net8.0-windows\WinFormsApplication.genruntimeconfig.cache
+C:\Git\csharp\WinFormsApplication\WinFormsApplication\obj\Debug\net8.0-windows\ref\WinFormsApplication.dll
